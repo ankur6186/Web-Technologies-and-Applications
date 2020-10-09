@@ -1,4 +1,4 @@
-# HoTravellr
+# HoTraveller
   * Selection of hotel using google - map on the homepage itself
   * Location Reader
   * Fare filter
